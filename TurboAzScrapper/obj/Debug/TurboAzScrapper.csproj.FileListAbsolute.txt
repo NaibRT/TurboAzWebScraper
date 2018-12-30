@@ -1,0 +1,14 @@
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\bin\Debug\TurboAzScrapper.exe.config
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\bin\Debug\TurboAzScrapper.exe
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\bin\Debug\TurboAzScrapper.pdb
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\obj\Debug\TurboAzScrapper.csprojAssemblyReference.cache
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\obj\Debug\TurboAzScrapper.Form1.resources
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\obj\Debug\TurboAzScrapper.Properties.Resources.resources
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\obj\Debug\TurboAzScrapper.csproj.GenerateResource.cache
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\obj\Debug\TurboAzScrapper.csproj.CoreCompileInputs.cache
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\obj\Debug\TurboAzScrapper.exe
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\obj\Debug\TurboAzScrapper.pdb
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\naibt\source\repos\TurboAzScrapper\TurboAzScrapper\obj\Debug\TurboAzScrapper.csproj.CopyComplete
